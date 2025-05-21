@@ -1,0 +1,4 @@
+PORT=your PORT
+MONGODB_URI=yourdb url
+JWT_SECRET=your_jwt_secret_key
+AI_API_KEY=your key
